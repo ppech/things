@@ -1,2 +1,1 @@
-# things
-All about 3D printing
+# All about 3D printing
